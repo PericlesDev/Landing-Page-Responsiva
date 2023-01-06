@@ -1,7 +1,8 @@
-# Landing-Page-Responsiva
+# Landing Page
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 🛠 Tecnologias utlizadas
 
 - HTML5
 - CSS3
-- Jquery
